@@ -1,0 +1,12 @@
+import React from 'react'
+import { assets } from '../assets/assets'
+
+const Products = () => {
+  return (
+   <div className='container bg-blue-600'>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, molestiae quam, fugiat quidem sit accusamus non, nisi officiis delectus autem molestias saepe maxime doloremque? Ea veniam consequatur quibusdam. Perspiciatis magni aliquam quia earum, laboriosam nihil dolor, atque repudiandae modi minus saepe ut ducimus debitis eius assumenda quas ullam consequuntur voluptas? Ipsum ad tenetur natus delectus, quibusdam consequatur dignissimos quo impedit eius quos illum aut enim? Illum eveniet, unde quam fugiat sint doloribus porro. Itaque in exercitationem enim cumque fuga. Facilis qui voluptate voluptatibus praesentium voluptatem inventore quisquam laborum quae sunt, aspernatur a! Quidem consequatur minus dolorem magni impedit nisi doloremque ipsam saepe, quasi eius laboriosam, blanditiis aut necessitatibus repellat possimus? Voluptas repellat modi est ipsa, veniam doloremque excepturi sapiente odit voluptatibus hic fuga sed nesciunt quis nulla libero mollitia illo minus temporibus vitae rem! Consectetur, architecto? Temporibus, harum facere? Nostrum, eaque nemo. Deleniti ut quidem molestias debitis molestiae. Repellendus atque fugit cupiditate eius harum, nihil ex dolorem doloremque eveniet iure dolores enim vero labore explicabo dolor, fuga molestias assumenda odit animi recusandae ratione officiis. Voluptate, sapiente cum? Officiis qui omnis neque perferendis totam dolore ducimus, ipsam id aliquid magni quae itaque, animi in veniam, nostrum consequuntur voluptatum labore unde numquam reprehenderit eum amet rerum expedita! Aliquam eaque laboriosam eligendi facilis repudiandae incidunt libero, sunt rerum corporis! Sit mollitia nostrum, impedit nam illo pariatur dolor rem eaque doloremque, dolorum eveniet, neque laudantium repudiandae incidunt sed. Odit nisi laudantium quam natus? At eaque omnis est deserunt necessitatibus corporis sed repudiandae accusantium nemo amet alias reprehenderit quis odit molestiae voluptatum magnam odio laborum ex, sequi debitis? Quam soluta fugit accusamus ab ea optio distinctio saepe facilis facere consequuntur error qui incidunt, expedita dolores. Earum molestias error expedita, inventore alias iusto sunt eius hic exercitationem repellendus, officiis sit. Quia beatae sapiente rerum harum. Reprehenderit.</p>
+   </div>
+  )
+}
+
+export default Products
