@@ -5,6 +5,8 @@ import dileveryn_icon from './dilevery_icon.png'
 import payment_icon from './payment_icon.png'
 import support_icon from './support_icon.png'
 import grant_icon from './grant_icon.png'
+import Product_image_1 from './Product_image_1.png'
+import Product_image_2 from './Product_image_2.jpg'
 
 
 
@@ -15,50 +17,32 @@ export const assets = {
     dileveryn_icon,
     payment_icon,
     support_icon,
-    grant_icon
+    grant_icon,
+    Product_image_1,
+    Product_image_2
+
    
    
 }
 
-// export const projectsData = [
-//     {
-//       title: "Skyline Haven",
-//       price: "$2,50,000",
-//       location: "California",
-//       image: project_img_1
-//     },
-//     {
-//       title: "Vista Verde",
-//       price: "$2,50,000",
-//       location: "San Francisco",
-//       image: project_img_2
-//     },
-//     {
-//       title: "Serenity Suites",
-//       price: "$2,50,000",
-//       location: "Chicago",
-//       image: project_img_3
-//     },
-//     {
-//       title: "Central Square",
-//       price: "$2,50,000",
-//       location: "Los Angeles",
-//       image: project_img_4
-//     },
-//     {
-//       title: "Vista Verde",
-//       price: "$2,50,000",
-//       location: "San Francisco",
-//       image: project_img_5
-//     },
-//     {
-//       title: "Serenity Suites",
-//       price: "$2,50,000",
-//       location: "Chicago",
-//       image: project_img_6
-//     },
+export const projectsData = [
+    {
+      image: Product_image_1,
+      title: "Fashion",
+      price: "$25",
+      Category: "Men",
+      
+    },
+    {
+      image: Product_image_2,
+      title: "Sports Shoes",
+      price: "$30",
+      Category: "Men",
+      
+    },
     
-//   ];
+    
+  ];
 
 //   export const testimonialsData = [
 //     {
