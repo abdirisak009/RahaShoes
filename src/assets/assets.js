@@ -9,6 +9,8 @@ import Product_image_1 from './Product_image_1.png'
 import Product_image_2 from './Product_image_2.png'
 import Product_image_3 from './Product_image_3.png'
 import Product_image_4 from './Product_image_4.png'
+import Product_image_5 from './Product_image_5.jpg'
+
 
 
 
@@ -25,6 +27,7 @@ export const assets = {
     Product_image_2,
     Product_image_3,
     Product_image_4,
+    Product_image_5,
 
    
    
@@ -56,6 +59,13 @@ export const projectsData = [
       image: Product_image_4,
       title: "Mont Shoes",
       price: "$12",
+      Category: "Women",
+      
+    },
+    {
+      image: Product_image_5,
+      title: "leder shoes",
+      price: "$120",
       Category: "Women",
       
     },
