@@ -6,7 +6,10 @@ import payment_icon from './payment_icon.png'
 import support_icon from './support_icon.png'
 import grant_icon from './grant_icon.png'
 import Product_image_1 from './Product_image_1.png'
-import Product_image_2 from './Product_image_2.jpg'
+import Product_image_2 from './Product_image_2.png'
+import Product_image_3 from './Product_image_3.png'
+import Product_image_4 from './Product_image_4.png'
+
 
 
 
@@ -19,7 +22,9 @@ export const assets = {
     support_icon,
     grant_icon,
     Product_image_1,
-    Product_image_2
+    Product_image_2,
+    Product_image_3,
+    Product_image_4,
 
    
    
@@ -38,6 +43,20 @@ export const projectsData = [
       title: "Sports Shoes",
       price: "$30",
       Category: "Men",
+      
+    },
+    {
+      image: Product_image_3,
+      title: "Lorn Shoes",
+      price: "$45",
+      Category: "Women",
+      
+    },
+    {
+      image: Product_image_4,
+      title: "Mont Shoes",
+      price: "$12",
+      Category: "Women",
       
     },
     

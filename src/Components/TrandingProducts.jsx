@@ -13,10 +13,13 @@ const TrandingProducts = () => {
     {projectsData.map((project, index)=>{
         return(
             <div key={index} className="shadow-md bg-[#f5f9fb] mx-10 px-10 py-10 my-5">
+           
             <img src={project.image} alt="" />
-            <h2>{project.title}</h2>
-            <h2>{project.price}</h2>
-            <h2>{project.Category}</h2>
+            <h2 className='text-gray-400'>--{project.Category}---</h2>
+            <h2 className='text-xl font-bold'>{project.title}</h2>
+            <h2 className='text-xl'>{project.price}</h2>
+            <button className='bg-[#00618E] rounded-full py-1 px-3 text-white mt-4'>Buy Now</button>
+           
         </div>
         );
     })}
